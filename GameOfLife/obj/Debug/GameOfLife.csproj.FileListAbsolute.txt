@@ -1,0 +1,6 @@
+D:\Kata\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe.config
+D:\Kata\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe
+D:\Kata\GameOfLife\GameOfLife\bin\Debug\GameOfLife.pdb
+D:\Kata\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csprojAssemblyReference.cache
+D:\Kata\GameOfLife\GameOfLife\obj\Debug\GameOfLife.exe
+D:\Kata\GameOfLife\GameOfLife\obj\Debug\GameOfLife.pdb
